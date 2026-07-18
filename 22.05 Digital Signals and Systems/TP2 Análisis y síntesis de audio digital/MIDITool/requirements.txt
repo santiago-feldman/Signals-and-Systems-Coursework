@@ -1,0 +1,10 @@
+matplotlib
+pyqt6
+scipy
+numpy
+mplcursors
+tikzplotlib
+mido
+resampy
+soundfile
+sounddevice

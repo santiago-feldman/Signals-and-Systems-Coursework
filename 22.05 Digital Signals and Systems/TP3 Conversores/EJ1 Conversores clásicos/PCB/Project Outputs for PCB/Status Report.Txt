@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 11:30:29 On 08/06/2023
+
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [EJ1-PCB.PcbDoc]
+   Generated File[Pick Place for EJ1-PCB.txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 11:30:30 On 08/06/2023

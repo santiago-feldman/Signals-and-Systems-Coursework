@@ -1,0 +1,482 @@
+Added Component: Designator=C1(0805)
+Added Component: Designator=C2(0805)
+Added Component: Designator=C3(0805)
+Added Component: Designator=C4(0805)
+Added Component: Designator=C5(0805)
+Added Component: Designator=C6(0805)
+Added Component: Designator=C7(0805)
+Added Component: Designator=C8(0805)
+Added Component: Designator=C9(0805)
+Added Component: Designator=C10(0805)
+Added Component: Designator=C11(0805)
+Added Component: Designator=C12(0805)
+Added Component: Designator=C13(0805)
+Added Component: Designator=C14(0805)
+Added Component: Designator=C15(0805)
+Added Component: Designator=C16(0805)
+Added Component: Designator=C17(0805)
+Added Component: Designator=C18(0805)
+Added Component: Designator=D1(DO41)
+Added Component: Designator=D2(DO41)
+Added Component: Designator=D3(DO41)
+Added Component: Designator=J1(JUMPER3)
+Added Component: Designator=J2(JUMPER2)
+Added Component: Designator=J3(JUMPER2)
+Added Component: Designator=J4(SIP8)
+Added Component: Designator=J5(SIP3*2)
+Added Component: Designator=J6(JUMPER3)
+Added Component: Designator=J7(BORNERA3)
+Added Component: Designator=J8(MOLEX2)
+Added Component: Designator=J9(MOLEX2)
+Added Component: Designator=POT1(PRESET V)
+Added Component: Designator=POT2(PRESET V)
+Added Component: Designator=R1(0805)
+Added Component: Designator=R2(0805)
+Added Component: Designator=R3(0805)
+Added Component: Designator=R4(0805)
+Added Component: Designator=R5(0805)
+Added Component: Designator=R6(PRESET V)
+Added Component: Designator=R7(0805)
+Added Component: Designator=R8(0805)
+Added Component: Designator=R9(0805)
+Added Component: Designator=R10(0805)
+Added Component: Designator=R11(0805)
+Added Component: Designator=R12(PRESET V)
+Added Component: Designator=R13(0805)
+Added Component: Designator=R14(0805)
+Added Component: Designator=R15(0805)
+Added Component: Designator=S1(TACTSWITCH)
+Added Component: Designator=TP1(TPTH)
+Added Component: Designator=TP2(TPTH)
+Added Component: Designator=TP3(TPTH)
+Added Component: Designator=U1(FP-N0028A-MFG)
+Add component (AddParameter): Name = "Case/Package"; Value = "DIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Conversion Rate"; Value = "10KS/s"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Converter Type"; Value = "GENERAL PURPOSE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "3.81mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Type"; Value = "SINGLE-ENDED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "Parallel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Contains Lead"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "36.83mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "875mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "6V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "4.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Supply Current"; Value = "300uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of A/D Converters"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Analog Inputs"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Bits"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Converters"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Inputs"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "28"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Rail/Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "Unipolar"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Consumption"; Value = "1.5mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "875mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resolution"; Value = "8b"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sampling Rate"; Value = "10KS/s"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Type"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "13.72mm"; VariantName = "[No Variations]"
+Added Component: Designator=U2(NFG0016A)
+Add component (AddParameter): Name = "Code_IPC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-001-BB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=DAC0808&fileType=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompType"; Value = "D/A Converter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "High-Reliability"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "MDIP, .750 x .250 x .130in, 16 Lead, .100in Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "NFG0016A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageTopMarking"; Value = "NSUZXYYTTE#*DAC0808LCN*MC1408P8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerWise"; Value = "N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "N"; VariantName = "[No Variations]"
+Added Component: Designator=U3(N0014A)
+Add component (AddParameter): Name = "Bits(#)"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "SCLS034F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "F @ Nom Voltage(Max)(Mhz)"; Value = "70"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Generic Part Number"; Value = "SN74HC132"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ICC @ Nom Voltage(Max)(mA)"; Value = "0.02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Type"; Value = "CMOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range(C)"; Value = "-40 to 85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Drive (IOL/IOH)(Max)(mA)"; Value = "5.2/-5.2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "CMOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "N0014A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "Catalog"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schmitt Trigger"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology Family"; Value = "HC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "tpd @ Nom Voltage(Max)(ns)"; Value = "31"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC(Max)(V)"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC(Min)(V)"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage(Nom)(V)"; Value = "5"; VariantName = "[No Variations]"
+Added Component: Designator=U4(N08E)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-001-BA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LM555 Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.national.com/ds/LM/LM555.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "LM555 Web Page"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.national.com/pf/LM/LM555.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "N08E Package Page"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.national.com/packaging/folders/n08e.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompType"; Value = "Analog IC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Jul-2006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "National Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "MDIP, .365 x .250 x .130in, 8 Lead, .100in Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "N08E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageTopMarking"; Value = "NSUZXYTTE#*LM*555CN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "revG, May-2006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerWise"; Value = "N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RevisionNote"; Value = "Component URLs added"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "N"; VariantName = "[No Variations]"
+Added Component: Designator=U5(TO220)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00000444.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/PACKAGE_INFORMATION/CD00004649.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "16/11/2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "TO, Thru-Hole, Vertical, Heatsink Mounted; 3 In-Line Leads; Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "TO220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "ver3.0"; VariantName = "[No Variations]"
+Added Component: Designator=U6(P0008A)
+Add component (AddParameter): Name = "CMRR(Min)(dB)"; Value = "70"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/lit/ds/symlink/tl082.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/litv/pdf/mpdi001b"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "SLOS081G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Eco-Plan"; Value = "Pb-Free (RoHS)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GBW(Typ)(MHz)"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IIB(Max)(pA)"; Value = "400"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Iq per channel(Max)(mA)"; Value = "2.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Offset Drift(Typ)(uV/C)"; Value = "18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "8-Pin Plastic In-Line, Body 9.59 x 6.35 mm, Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "P0008A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "4040082/E, 04/2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "TL082CP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "Catalog"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Slew Rate(Typ)(V/us)"; Value = "13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sub Family"; Value = "General Purpose Amplifier, High Supply Voltage Amplifier (>=30V)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Total Supply Voltage(Max)(+5V is 5, +/-5V is 10)"; Value = "36"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Total Supply Voltage(Min)(+5V is 5, +/-5V is 10)"; Value = "7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vio (25C)(Max)(mV)"; Value = "15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vn at 1kHz(Typ)(nV/rtHz)"; Value = "18"; VariantName = "[No Variations]"
+Added Component: Designator=U7(N08E)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-001-BA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LM555 Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.national.com/ds/LM/LM555.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "LM555 Web Page"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.national.com/pf/LM/LM555.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "N08E Package Page"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.national.com/packaging/folders/n08e.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompType"; Value = "Analog IC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Jul-2006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "National Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "MDIP, .365 x .250 x .130in, 8 Lead, .100in Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "N08E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageTopMarking"; Value = "NSUZXYTTE#*LM*555CN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "revG, May-2006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerWise"; Value = "N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RevisionNote"; Value = "Component URLs added"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "N"; VariantName = "[No Variations]"
+Added Component: Designator=U8(P0008A)
+Add component (AddParameter): Name = "CMRR(Min)(dB)"; Value = "70"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/lit/ds/symlink/tl082.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/litv/pdf/mpdi001b"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "SLOS081G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Eco-Plan"; Value = "Pb-Free (RoHS)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GBW(Typ)(MHz)"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IIB(Max)(pA)"; Value = "400"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Iq per channel(Max)(mA)"; Value = "2.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Offset Drift(Typ)(uV/C)"; Value = "18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "8-Pin Plastic In-Line, Body 9.59 x 6.35 mm, Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "P0008A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "4040082/E, 04/2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "TL082CP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "Catalog"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Slew Rate(Typ)(V/us)"; Value = "13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sub Family"; Value = "General Purpose Amplifier, High Supply Voltage Amplifier (>=30V)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Total Supply Voltage(Max)(+5V is 5, +/-5V is 10)"; Value = "36"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Total Supply Voltage(Min)(+5V is 5, +/-5V is 10)"; Value = "7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vio (25C)(Max)(mV)"; Value = "15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vn at 1kHz(Typ)(nV/rtHz)"; Value = "18"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=C1-2
+Added Pin To Net: NetName=+5V Pin=C2-1
+Added Pin To Net: NetName=+5V Pin=C5-1
+Added Pin To Net: NetName=+5V Pin=C9-1
+Added Pin To Net: NetName=+5V Pin=C10-1
+Added Pin To Net: NetName=+5V Pin=C13-1
+Added Pin To Net: NetName=+5V Pin=C14-2
+Added Pin To Net: NetName=+5V Pin=D2-2
+Added Pin To Net: NetName=+5V Pin=J1-3
+Added Pin To Net: NetName=+5V Pin=J6-3
+Added Pin To Net: NetName=+5V Pin=POT2-1
+Added Pin To Net: NetName=+5V Pin=R1-2
+Added Pin To Net: NetName=+5V Pin=S1-1
+Added Pin To Net: NetName=+5V Pin=S1-2
+Added Pin To Net: NetName=+5V Pin=U1-11
+Added Pin To Net: NetName=+5V Pin=U1-12
+Added Pin To Net: NetName=+5V Pin=U2-13
+Added Pin To Net: NetName=+5V Pin=U3-14
+Added Pin To Net: NetName=+5V Pin=U4-4
+Added Pin To Net: NetName=+5V Pin=U4-8
+Added Pin To Net: NetName=+5V Pin=U5-3
+Added Pin To Net: NetName=+5V Pin=U7-4
+Added Pin To Net: NetName=+5V Pin=U7-8
+Added Net: Name=+5V
+Added Pin To Net: NetName=+Vcc Pin=C8-1
+Added Pin To Net: NetName=+Vcc Pin=C15-1
+Added Pin To Net: NetName=+Vcc Pin=C16-1
+Added Pin To Net: NetName=+Vcc Pin=J7-1
+Added Pin To Net: NetName=+Vcc Pin=U5-1
+Added Pin To Net: NetName=+Vcc Pin=U6-8
+Added Pin To Net: NetName=+Vcc Pin=U8-8
+Added Net: Name=+Vcc
+Added Pin To Net: NetName=-Vcc Pin=C4-1
+Added Pin To Net: NetName=-Vcc Pin=C17-2
+Added Pin To Net: NetName=-Vcc Pin=C18-2
+Added Pin To Net: NetName=-Vcc Pin=J7-3
+Added Pin To Net: NetName=-Vcc Pin=U2-3
+Added Pin To Net: NetName=-Vcc Pin=U6-4
+Added Pin To Net: NetName=-Vcc Pin=U8-4
+Added Net: Name=-Vcc
+Added Pin To Net: NetName=Clock1 Pin=J3-2
+Added Pin To Net: NetName=Clock1 Pin=R6-1
+Added Pin To Net: NetName=Clock1 Pin=R6-2
+Added Pin To Net: NetName=Clock1 Pin=TP1-1
+Added Pin To Net: NetName=Clock1 Pin=U4-3
+Added Net: Name=Clock1
+Added Pin To Net: NetName=Clock2 Pin=J5-3
+Added Pin To Net: NetName=Clock2 Pin=R12-1
+Added Pin To Net: NetName=Clock2 Pin=R12-2
+Added Pin To Net: NetName=Clock2 Pin=TP3-1
+Added Pin To Net: NetName=Clock2 Pin=U7-3
+Added Net: Name=Clock2
+Added Pin To Net: NetName=DACout Pin=R13-1
+Added Pin To Net: NetName=DACout Pin=U2-4
+Added Pin To Net: NetName=DACout Pin=U8-2
+Added Net: Name=DACout
+Added Pin To Net: NetName=EOC Pin=J2-2
+Added Pin To Net: NetName=EOC Pin=U1-7
+Added Pin To Net: NetName=EOC Pin=U3-1
+Added Pin To Net: NetName=EOC Pin=U3-2
+Added Pin To Net: NetName=EOC Pin=U3-4
+Added Net: Name=EOC
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=GND Pin=D3-1
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J6-1
+Added Pin To Net: NetName=GND Pin=J7-2
+Added Pin To Net: NetName=GND Pin=J8-2
+Added Pin To Net: NetName=GND Pin=J9-2
+Added Pin To Net: NetName=GND Pin=POT2-3
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R10-2
+Added Pin To Net: NetName=GND Pin=R15-1
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U1-13
+Added Pin To Net: NetName=GND Pin=U1-16
+Added Pin To Net: NetName=GND Pin=U1-23
+Added Pin To Net: NetName=GND Pin=U1-24
+Added Pin To Net: NetName=GND Pin=U1-25
+Added Pin To Net: NetName=GND Pin=U1-27
+Added Pin To Net: NetName=GND Pin=U1-28
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U3-7
+Added Pin To Net: NetName=GND Pin=U3-12
+Added Pin To Net: NetName=GND Pin=U3-13
+Added Pin To Net: NetName=GND Pin=U4-1
+Added Pin To Net: NetName=GND Pin=U5-2
+Added Pin To Net: NetName=GND Pin=U7-1
+Added Pin To Net: NetName=GND Pin=U8-3
+Added Pin To Net: NetName=GND Pin=U8-5
+Added Net: Name=GND
+Added Pin To Net: NetName=IN0 Pin=D2-1
+Added Pin To Net: NetName=IN0 Pin=D3-2
+Added Pin To Net: NetName=IN0 Pin=R7-2
+Added Pin To Net: NetName=IN0 Pin=TP2-1
+Added Pin To Net: NetName=IN0 Pin=U1-26
+Added Pin To Net: NetName=IN0 Pin=U6-7
+Added Net: Name=IN0
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=D1-2
+Added Pin To Net: NetName=NetC3_1 Pin=R4-2
+Added Pin To Net: NetName=NetC3_1 Pin=U3-5
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=U2-16
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC6_1 Pin=R5-1
+Added Pin To Net: NetName=NetC6_1 Pin=U4-2
+Added Pin To Net: NetName=NetC6_1 Pin=U4-6
+Added Net: Name=NetC6_1
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_1 Pin=U4-5
+Added Net: Name=NetC7_1
+Added Pin To Net: NetName=NetC11_1 Pin=C11-1
+Added Pin To Net: NetName=NetC11_1 Pin=R11-1
+Added Pin To Net: NetName=NetC11_1 Pin=U7-2
+Added Pin To Net: NetName=NetC11_1 Pin=U7-6
+Added Net: Name=NetC11_1
+Added Pin To Net: NetName=NetC12_1 Pin=C12-1
+Added Pin To Net: NetName=NetC12_1 Pin=U7-5
+Added Net: Name=NetC12_1
+Added Pin To Net: NetName=NetC14_1 Pin=C14-1
+Added Pin To Net: NetName=NetC14_1 Pin=R14-2
+Added Pin To Net: NetName=NetC14_1 Pin=R15-2
+Added Pin To Net: NetName=NetC14_1 Pin=S1-3
+Added Pin To Net: NetName=NetC14_1 Pin=S1-4
+Added Net: Name=NetC14_1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R3-2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=U1-9
+Added Net: Name=NetJ1_2
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1
+Added Pin To Net: NetName=NetJ2_1 Pin=J5-1
+Added Pin To Net: NetName=NetJ2_1 Pin=U3-8
+Added Net: Name=NetJ2_1
+Added Pin To Net: NetName=NetJ3_1 Pin=J3-1
+Added Pin To Net: NetName=NetJ3_1 Pin=U1-10
+Added Net: Name=NetJ3_1
+Added Pin To Net: NetName=NetJ4_1 Pin=J4-1
+Added Pin To Net: NetName=NetJ4_1 Pin=U1-21
+Added Pin To Net: NetName=NetJ4_1 Pin=U2-5
+Added Net: Name=NetJ4_1
+Added Pin To Net: NetName=NetJ4_2 Pin=J4-2
+Added Pin To Net: NetName=NetJ4_2 Pin=U1-20
+Added Pin To Net: NetName=NetJ4_2 Pin=U2-6
+Added Net: Name=NetJ4_2
+Added Pin To Net: NetName=NetJ4_3 Pin=J4-3
+Added Pin To Net: NetName=NetJ4_3 Pin=U1-19
+Added Pin To Net: NetName=NetJ4_3 Pin=U2-7
+Added Net: Name=NetJ4_3
+Added Pin To Net: NetName=NetJ4_4 Pin=J4-4
+Added Pin To Net: NetName=NetJ4_4 Pin=U1-18
+Added Pin To Net: NetName=NetJ4_4 Pin=U2-8
+Added Net: Name=NetJ4_4
+Added Pin To Net: NetName=NetJ4_5 Pin=J4-5
+Added Pin To Net: NetName=NetJ4_5 Pin=U1-8
+Added Pin To Net: NetName=NetJ4_5 Pin=U2-9
+Added Net: Name=NetJ4_5
+Added Pin To Net: NetName=NetJ4_6 Pin=J4-6
+Added Pin To Net: NetName=NetJ4_6 Pin=U1-15
+Added Pin To Net: NetName=NetJ4_6 Pin=U2-10
+Added Net: Name=NetJ4_6
+Added Pin To Net: NetName=NetJ4_7 Pin=J4-7
+Added Pin To Net: NetName=NetJ4_7 Pin=U1-14
+Added Pin To Net: NetName=NetJ4_7 Pin=U2-11
+Added Net: Name=NetJ4_7
+Added Pin To Net: NetName=NetJ4_8 Pin=J4-8
+Added Pin To Net: NetName=NetJ4_8 Pin=U1-17
+Added Pin To Net: NetName=NetJ4_8 Pin=U2-12
+Added Net: Name=NetJ4_8
+Added Pin To Net: NetName=NetJ5_2 Pin=J5-2
+Added Pin To Net: NetName=NetJ5_2 Pin=J5-4
+Added Pin To Net: NetName=NetJ5_2 Pin=J5-6
+Added Pin To Net: NetName=NetJ5_2 Pin=U1-6
+Added Net: Name=NetJ5_2
+Added Pin To Net: NetName=NetJ6_2 Pin=J6-2
+Added Pin To Net: NetName=NetJ6_2 Pin=U1-22
+Added Net: Name=NetJ6_2
+Added Pin To Net: NetName=NetPOT1_1 Pin=POT1-1
+Added Pin To Net: NetName=NetPOT1_1 Pin=R8-2
+Added Pin To Net: NetName=NetPOT1_1 Pin=U6-2
+Added Net: Name=NetPOT1_1
+Added Pin To Net: NetName=NetPOT1_2 Pin=POT1-2
+Added Pin To Net: NetName=NetPOT1_2 Pin=POT1-3
+Added Pin To Net: NetName=NetPOT1_2 Pin=R9-1
+Added Pin To Net: NetName=NetPOT1_2 Pin=U6-1
+Added Net: Name=NetPOT1_2
+Added Pin To Net: NetName=NetPOT2_2 Pin=POT2-2
+Added Pin To Net: NetName=NetPOT2_2 Pin=U6-5
+Added Net: Name=NetPOT2_2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U2-14
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=U2-15
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=U3-3
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=R6-3
+Added Net: Name=NetR5_2
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=R9-2
+Added Pin To Net: NetName=NetR7_1 Pin=U6-6
+Added Net: Name=NetR7_1
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=NetR10_1 Pin=U6-3
+Added Net: Name=NetR10_1
+Added Pin To Net: NetName=NetR11_2 Pin=R11-2
+Added Pin To Net: NetName=NetR11_2 Pin=R12-3
+Added Net: Name=NetR11_2
+Added Pin To Net: NetName=NetU3_6 Pin=U3-6
+Added Pin To Net: NetName=NetU3_6 Pin=U3-9
+Added Pin To Net: NetName=NetU3_6 Pin=U3-10
+Added Net: Name=NetU3_6
+Added Pin To Net: NetName=NetU8_6 Pin=U8-6
+Added Pin To Net: NetName=NetU8_6 Pin=U8-7
+Added Net: Name=NetU8_6
+Added Pin To Net: NetName=SW Pin=J5-5
+Added Pin To Net: NetName=SW Pin=R14-1
+Added Net: Name=SW
+Added Pin To Net: NetName=Vin Pin=J8-1
+Added Pin To Net: NetName=Vin Pin=R8-1
+Added Net: Name=Vin
+Added Pin To Net: NetName=Vout Pin=J9-1
+Added Pin To Net: NetName=Vout Pin=R13-2
+Added Pin To Net: NetName=Vout Pin=U8-1
+Added Net: Name=Vout
+Added Class: Name=EJ1-PCB

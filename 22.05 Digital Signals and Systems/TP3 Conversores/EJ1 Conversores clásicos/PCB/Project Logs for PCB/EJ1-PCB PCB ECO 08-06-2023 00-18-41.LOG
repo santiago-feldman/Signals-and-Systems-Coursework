@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=+5V Pin=S1-1
+Removed Pin From Net: NetName=NetC14_1 Pin=S1-3
+Removed Pin From Net: NetName=NetC14_1 Pin=S1-4
+Removed Member From Class: ClassName=EJ1-PCB Member=S1
+Added Component: Designator=SW1(FP-EVQ-PAG05R-MFG)
+Add component (AddParameter): Name = "Actuator Color"; Value = "Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Current Rating"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "50mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "6.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Electrical Life"; Value = "50000Cycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Illumination Type"; Value = "Non-Illuminated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "70°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (DC)"; Value = "15V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mechanical Life"; Value = "50000Cycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-20°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Force"; Value = "2.6N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "EVQPA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Function"; Value = "Off-Mom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Travel"; Value = "0.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "PC Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throw Configuration"; Value = "SPST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "15V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "6mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=SW1-A
+Added Pin To Net: NetName=NetC14_1 Pin=SW1-B
+Added Member To Class: ClassName=EJ1-PCB Member=Component SW1 EVQ-PAG05R
