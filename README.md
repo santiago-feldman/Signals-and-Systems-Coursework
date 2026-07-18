@@ -18,4 +18,4 @@ This repository contains the practical assignments done for the following subjec
 ## Random Signals
 
 - **TP1 - Monte Carlo simulation of random variables and processes in MATLAB: joint Gaussian PDFs and ergodicity of semi-random binary signals**
-- **TP2 - ** (not included)
+- **TP2 - ARMA model identification of a random sequence via ACF/PACF analysis, Yule-Walker estimation and PSD estimation + optimal linear Wiener smoothing filter for speech denoising**
