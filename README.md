@@ -26,3 +26,7 @@ This repository contains the practical assignments done for the following subjec
 - **TP1 - Monte Carlo simulation of random variables and processes in MATLAB: joint Gaussian PDFs and ergodicity of semi-random binary signals**
 
 - **TP2 - ARMA model identification of a random sequence via ACF/PACF analysis, Yule-Walker estimation and PSD estimation + optimal linear Wiener smoothing filter for speech denoising**
+
+### Faculty staff
+- 22.05: Jacoby, Daniel; Paura Bersan, Martin
+- 22.67: Hirchoren, Gustavo Abraham
